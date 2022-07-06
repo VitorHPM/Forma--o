@@ -1,0 +1,30 @@
+HTML
+
+CSS : "estilo" da página // userinterface em html
+
+"Bootstrap" Biblioteca/framework CSS
+
+Js: interatividade
+
+
+http: hyper test transfer protocol
+Ftp: só p ficheiros (o que usava AdB)
+
+
+Html
+<html>
+<head> [scripts/infos importants/titulo]
+</head>
+<Body>
+</body>
+</html>
+
+
+w3cool.com ------>>>>>> docs completos/try yourself
+
+
+visualstudiocode  plug-ins de indentação.
+
+-------------------------------------------------------------
+
+
